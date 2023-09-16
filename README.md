@@ -7,31 +7,34 @@ A fourth-year student at University ITMO with an insatiable passion for technolo
 
 ### 🚀 My skills and expertise
 In my toolkit, you'll find a diverse set of skills and expertise. I'm proficient in several programming languages
-###### - 🐍 Python
-###### - 📑 MySql (postGre)
-###### - 🌐 CiscoPacket
-###### - 🧿 C++ 
-###### - 🌟 JavaScript (Vue, TypeScript, Express)
-###### - 📱 Flutter (Dart)
+#### - 🐍 Python
+#### - 📑 MySql (postGre)
+#### - 🌐 CiscoPacket
+#### - 🧿 C++ 
+#### - 🌟 JavaScript (Vue, TypeScript, Express)
+#### - 📱 Flutter (Dart)
        I've also ventured into the world of mobile app development using the Flutter framework with Dart, crafting cross-platform apps that are both beautiful and performant.
        
 ### 🚀 My projects
-Project 1: A responsive Food-Search website built with Vue.js, Vuex, and Tailwind. Repository, Repository, Repository
-Project 2: A responsive Event-Search website built with Vue.js, Vuex,Boostrap and firebase. Repository, Repository
-Project 3: A RESTful API built with Express and Sqlite3. Repository
+- Project 1: A responsive Hotel prototype website built with Vue.js, Vuex. Repository
+- Project 2: A responsive Photos-search website built with Vue.js, Vuex,Boostrap and firebase. Repository
+- Project 3: A RESTful API built with Express and Sqlite3. Repository
+- Project 4: A mobile Food app developed with Flutter. Respository
+- Project 5: Microtik network project. Practice
 
 ### 💻 Contributions
-University Labs: Contributed to ITMO-ICT-Frontend-2022. Pull Request, Issue
-University Labs: Contributed to ITMO-ICT-Backend-2023. Pull Request, Issue
-University Labs: Contributed to ICT_DataBases_2021-2022. Pull Request, Issue
+- University Labs: Contributed to ITMO-ICT-Frontend-2022. Pull Request, Issue
+- University Labs: Contributed to ITMO-ICT-Backend-2023. Pull Request, Issue
+- University Labs: Contributed to ICT_DataBases_2021-2022. Pull Request, Issue
 
 📚 As a student, I'm constantly expanding my horizons, staying up-to-date with the latest trends and technologies. My GitHub profile is a testament to my commitment to continuous learning and innovation.
 
 Let's connect and collaborate on exciting projects or simply geek out over the latest tech trends. Together, we can shape the future of technology! 🚀✨
-📫 Contact
+
+### 📫 Contact
 You can reach me via email at Nathanbounkouta8@gmail.com or telegram @bby_elegance.
 
-📝 License
+### 📝 License
 This project is licensed under the MIT License.
 
 LICENSE
