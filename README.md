@@ -12,7 +12,6 @@ In my toolkit, you'll find a diverse set of skills and expertise. I'm proficient
 #### - 🌐 CiscoPacket
 #### - 🧿 C++ 
 #### - 🌟 JavaScript (Vue, TypeScript, Express)
-#### - 📱 Flutter (Dart)
        I've also ventured into the world of mobile app development using the Flutter framework with Dart, crafting cross-platform apps that are both beautiful and performant.
        
 ### 🚀 My projects
