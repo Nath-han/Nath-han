@@ -1,5 +1,5 @@
 ### 👋 Hey there, I'm Nathan Bounkouta! 
-A fourth-year student at University ITMO with an insatiable passion for technology, particularly in the realms of web development and network engineering. My journey in the world of tech has been a thrilling adventure, and GitHub is my canvas where I paint my technological masterpieces.
+A first-year master student at University ITMO with an insatiable passion for technology, particularly in the realms of web development and network engineering. My journey in the world of tech has been a thrilling adventure, and GitHub is my canvas where I paint my technological masterpieces.
 
 💻 I thrive in the world of front-end web development, turning design concepts into stunning, interactive user experiences. HTML, CSS, and JavaScript are my trusty companions, and I'm always pushing the boundaries of what's possible in the browser. With a keen eye for design and a knack for responsive layouts, I craft web applications that leave a lasting impression.
 
@@ -10,7 +10,6 @@ In my toolkit, you'll find a diverse set of skills and expertise. I'm proficient
 #### - 🐍 Python
 #### - 📑 MySql (postGre)
 #### - 🌐 CiscoPacket
-#### - 🧿 C++ 
 #### - 🌟 JavaScript (Vue, TypeScript, Express)
        I've also ventured into the world of mobile app development using the Flutter framework with Dart, crafting cross-platform apps that are both beautiful and performant.
        
